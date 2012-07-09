@@ -31,9 +31,9 @@ Topic 2.  Vectors.
 	b) Analytical and component methods of adding vectors
 
 Topic 3.  Kinematics in one dimension.
-            a) Constant velocity
-            b) Instantaneous and average velocity
-            c) Constant and variable acceleration; free falling objects.
+        a) Constant velocity
+        b) Instantaneous and average velocity
+        c) Constant and variable acceleration; free falling objects.
 	d) Friction
 
 Topic 4. Kinematic in two dimensions.

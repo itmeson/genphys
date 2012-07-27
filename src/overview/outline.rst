@@ -22,8 +22,10 @@ Based on materials presented in class and on readings, and assigned audiovisual 
  5. Distinguish between the major types of energy and evaluate how these forms manifest themselves.
  6. Examine how conservation of energy, work, and momentum relate to mass and force and characterize how they vary with time.  
  7. Students will synthesize main ideas to construct new concepts by
-   a. Recognizing interrelationships among concepts and combining them into potentially useful primary statements with supportive evidence.
-   b. Extending initial synthesis, when possible, at a higher level of abstraction to construct new hypotheses that may require additional information.
+
+    a. Recognizing interrelationships among concepts and combining them into potentially useful primary statements with supportive evidence.
+    b. Extending initial synthesis, when possible, at a higher level of abstraction to construct new hypotheses that may require additional information.
+
  8. Students will recognize the use of deductive reasoning to examine and test scientific   hypotheses.
 
 ===============

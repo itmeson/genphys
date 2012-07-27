@@ -1,21 +1,20 @@
-STANDARDS LIST
-##############
+Standards
+#########
 :date: 2012-07-27
 :summary: List of content standards for General Physics I
-:tags: standards, overview
+:tags: standards
 :category: overview
 
- 1. Kinematics in one dimension
+1. Kinematics in one dimension
 
-     1. I can use physical reasoning to evaluate motion at constant velocity
-     2. I can construct and apply linear models of motion
-     3. I can explain the difference between average velocity and instantaneous velocity
-     4. I can measure average and instantaneous velocities
-     5. I can recognize the limitations of linear models of motion
-     6. I can construct and apply models of accelerated motion
-     7. I can construct and interpret graphical representations of motion
-     8. I can apply the kinematics equations to predict the motions of bodies
-      undergoing constant acceleration
+   1. I can use physical reasoning to evaluate motion at constant velocity
+   2. I can construct and apply linear models of motion
+   3. I can explain the difference between average velocity and instantaneous velocity
+   4. I can measure average and instantaneous velocities
+   5. I can recognize the limitations of linear models of motion
+   6. I can construct and apply models of accelerated motion
+   7. I can construct and interpret graphical representations of motion
+   8. I can apply the kinematics equations to predict the motions of bodies undergoing constant acceleration
 
  2.  Dynamics in one dimension
 
@@ -80,8 +79,5 @@ STANDARDS LIST
      14. I can use measurements and conversion factors appropriately
      15. I can convert from one system of units to another
      16. I can explain the merits of one system of units over another
-     17. I can use appropriate significant figures in reporting the values
-      of measurements and calculations
-
-
+     17. I can use appropriate significant figures in reporting the values of measurements and calculations
 

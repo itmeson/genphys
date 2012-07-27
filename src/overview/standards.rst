@@ -1,8 +1,12 @@
 STANDARDS LIST
-==============
-
+##############
+:date: 2012-07-27
+:summary: List of content standards for General Physics I
+:tags: standards, overview
+:category: overview
 
  1. Kinematics in one dimension
+
      1. I can use physical reasoning to evaluate motion at constant velocity
      2. I can construct and apply linear models of motion
      3. I can explain the difference between average velocity and instantaneous velocity
@@ -14,6 +18,7 @@ STANDARDS LIST
       undergoing constant acceleration
 
  2.  Dynamics in one dimension
+
      1. I can predict the motion of a body from a consideration of the forces on it
      2. I can determine the force on a body from its motion
      3. I can measure forces
@@ -34,6 +39,7 @@ STANDARDS LIST
      18. I can identify the properties that make a force "non-conservative"
 
  3.  Mechanics in two dimensions
+
      1. I can identify situations in which one-dimensional descriptions are not sufficient
      2. I can determine the sine, cosine, and tangent of an angle
      3. I can use trigonometry to find given components of displacement, velocity, acceleration, force, and momentum
@@ -45,8 +51,8 @@ STANDARDS LIST
      9. I can analyze systems of forces to determine whether a body is in equilibrium
      10. I can predict the resulting motion from a system of forces on a body or bodies
 
-
  4.  Rotational mechanics
+
      1. I can use the rotational analogues of the kinematic equations to describe rotational motion
      2. I can determine the torque on a body from the forces on it
      3. I can predict the motion of a body undergoing torques
@@ -56,8 +62,8 @@ STANDARDS LIST
      7. I can use rotational kinetic energy to predict the motion of an object
      8. I can combine translational and rotational momentum and kinetic energies to determine the motion of an object in the presence of rotations and translations.
 
-
  10.  General Problem Solving and Experimental Method
+
      1. I can break a complex problem into component simpler problems
      2. I can translate between graphical, verbal, written, and analytical representations of problems
      3. I can make use of different representations of a problem to construct solutions

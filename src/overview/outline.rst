@@ -1,9 +1,19 @@
+Course Outline
+##############
+
+:date: 2012-07-27
+:summary: Course outline for general physics I
+:category: overview
+:tags: overview, standards, grading
+
+==================
 COURSE DESCRIPTION  
-===================
+==================
 SCI1011 is the first of a two part introductory Physics course sequence using algebra-based approaches to analyze physics phenomena. It introduces students to vector algebra and the basic principles of classical mechanics, applying the concepts of work, energy, linear momentum, and angular momentum to physical phenomena.  SCI1011 must be taken concurrently with the laboratory section (see SCI1---, Physics I Laboratory).
 
+=================
 COURSE OBJECTIVES
-==================
+=================
 Based on materials presented in class and on readings, and assigned audiovisual materials, students will be able to:
  1. Apply different measurement systems to analyze problems of dimension consistency and perform unit analyses.
  2. Explain Newton’s Laws of Motion and apply them to the analysis of problems involving uniformly accelerated linear motion and circular motion.
@@ -16,6 +26,7 @@ Based on materials presented in class and on readings, and assigned audiovisual 
    b. Extending initial synthesis, when possible, at a higher level of abstraction to construct new hypotheses that may require additional information.
  8. Students will recognize the use of deductive reasoning to examine and test scientific   hypotheses.
 
+===============
 CONTENT OUTLINE
 ===============
 The course will include the following materials, which are divided into units, which are intended to be of approximately equal duration and emphasis.
@@ -68,10 +79,10 @@ Topic 9.  Equilibrium of rigid bodies.
 	b) Center of gravity
 
 
-REQUIRED TEXT BOOK(S)/SOFTWARE (to be purchased by students): 
+**REQUIRED TEXT BOOK(S)/SOFTWARE** (to be purchased by students): 
 Physics, By Paul Tippens – McGraw-Hill Science, 2007, 7/e – ISBN:  0073222704.
 
-EVALUATIVE CRITERIA:	
+**EVALUATIVE CRITERIA**:	
 1. Final grades will be based on at least four graded items one of which will be an examination administered at the official scheduled final exam time.
 2. A portion of the class grade may be assigned on the basis of class participation and timeliness of performance.
 3. A fraction of the grade will be based upon completion of homework problem solving exercises selected by the instructor.

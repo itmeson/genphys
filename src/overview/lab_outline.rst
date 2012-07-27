@@ -1,5 +1,12 @@
+Lab Outline
+###########
+
+:date: 2012-07-23
+:category: overview
+
+==================
 Course Description
-===================
+==================
 
 SCI1011L is an introductory algebra based Physics Laboratory that
 meets three hours a week. It is an inquiry based laboratory course
@@ -14,7 +21,7 @@ laboratory exercises reinforce theories discussed in class, including
 error analysis, vector algebra, kinematics, conservation of energy,
 momentum, and rotational motion.
 
-
+=================
 COURSE OBJECTIVES
 =================
 
@@ -30,6 +37,7 @@ Upon satisfactory completion of this course, a student should have the ability t
     a. Recognizing interrelationships among concepts and combining them into potentially useful primary statements with supporting evidence.
     b. Extending initial synthesis, when possible, at a higher level of abstraction to construct new hypothesis that may require additional information.
 
+===============
 CONTENT OUTLINE
 ===============
 

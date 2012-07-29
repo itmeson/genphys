@@ -17,7 +17,6 @@ Standards
    8. I can apply the kinematics equations to predict the motions of bodies undergoing constant acceleration
 
  2.  Dynamics in one dimension
-
      1. I can predict the motion of a body from a consideration of the forces on it
      2. I can determine the force on a body from its motion
      3. I can measure forces
@@ -78,6 +77,3 @@ Standards
      13. I can explain the distinction between fundamental and derived units
      14. I can use measurements and conversion factors appropriately
      15. I can convert from one system of units to another
-     16. I can explain the merits of one system of units over another
-     17. I can use appropriate significant figures in reporting the values of measurements and calculations
-

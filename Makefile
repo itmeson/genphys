@@ -6,7 +6,7 @@ BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelican.conf.py
-THEME=pelican-course
+THEME=pelican-course-theme
 
 FTP_HOST=marbet15@markbetnel.com
 FTP_USER=marbet15

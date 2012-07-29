@@ -11,8 +11,11 @@ General Physics I Schedule
 Tues. Sep. 4  Introduction
 
 1. Introduction: What is physics?  What is this class?  Why are we here?
+
 2. BEMA, FCI
+
 2. Kinematics.  Describing motion with numbers and equations.
+
 3. HW: Kinematics from Chapter 6
 
    1. 6.01, 6.03, 6.04, 6.09, 6.10, 6.12, 6.16

@@ -7,7 +7,7 @@ Standards
 
 1. Kinematics in one dimension
 
-   1. I can use physical reasoning to evaluate motion at constant velocity
+   1. I can use physical reasoning to evaluate motion at constant velocity ( 1.1_ )
    2. I can construct and apply linear models of motion
    3. I can explain the difference between average velocity and instantaneous velocity
    4. I can measure average and instantaneous velocities
@@ -78,3 +78,7 @@ Standards
     13. I can explain the distinction between fundamental and derived units
     14. I can use measurements and conversion factors appropriately
     15. I can convert from one system of units to another
+
+.. _1.1: ../tags/1.1.html
+
+

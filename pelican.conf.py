@@ -23,6 +23,6 @@ SOCIAL = (
          )
 
 DEFAULT_PAGINATION = 7
-
+DISPLAY_PAGES_ON_MENU = False
 
     

@@ -7,24 +7,45 @@ Lesson 2
 ==========
 Intro Quiz
 ==========
+
 1. Pass back and discuss results of introductory diagnostic. 
 2. Demonstrate activegrade for tracking of standards mastery.
-3. Discuss plan of attack for addressing the prior knowledge evidence by the diagnostic.
+3. Discuss plan of attack for addressing the prior knowledge evidence 
+   from the diagnostic.
 
 ========
 Homework
 ========
+
 1. Check in on use of webassign, go over homework problems
 
 
-========
+==========
 Kinematics
-========
+==========
+
 1. Building intuition about rates
-   a. Measure speed of various motions  (elevator, going up and down stairs, walking across room, dropping something, videos...)
-   b. Define and explain the necessary info/measurements: time, distance (rationalize the previous work) 
-   c. 
-   c. How to deal with situations in which the speed is not constant?
-   d. 
+
+   a. Measure speed of various motions  (elevator, going up and down
+      stairs, walking across room, dropping something, videos...)
+   b. Define and explain the necessary info/measurements: time, distance 
+      (rationalize the previous work) 
+   c. Create some video showing constant speed, and use video to measure
+      the speed. What needs to be in the video to be able to determine the
+      speed accurately?
+   d. How to deal with situations in which the speed is not constant?
+
+2. How do we predict how far something will travel, given its speed?
+
+5. Formalize work with kinematic equations:
+
+   a. $ x = v_0 t $
+   b. $ v = v_0 + at $
+   c. $ x = v_0 t + .5at^2$
+
+6. It is important to understand
+   *what*, *why*, and also to be able to work *efficiently*.  The equations
+   seem abstract, but they enable efficiency by cutting away unnecessary 
+   details.
 
  

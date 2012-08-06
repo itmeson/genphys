@@ -53,5 +53,8 @@ github: $(OUTPUTDIR)/index.html
 	ghp-import $(OUTPUTDIR)
 	git push origin gh-pages
 
+todo: 
+	grep -r TODO src/
+
 .PHONY: html help clean ftp_upload ssh_upload dropbox_upload github
     

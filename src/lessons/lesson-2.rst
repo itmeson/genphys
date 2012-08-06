@@ -41,11 +41,18 @@ Kinematics
 
    a. $ x = v_0 t $
    b. $ v = v_0 + at $
-   c. $ x = v_0 t + .5at^2$
+   c. $ x = v_0 t + \\frac{1}{2} at^2$
 
 6. It is important to understand
    *what*, *why*, and also to be able to work *efficiently*.  The equations
    seem abstract, but they enable efficiency by cutting away unnecessary 
    details.
 
+========
+Homework
+========
+
+1. See Homework2_
+
+.. _Homework2: ../homework-two.html
  

@@ -155,11 +155,8 @@ Homework
 ========
 
 0. See Homework1_
-1. You must get an account on WebAssign
-2. Do the problems (they are from the book), and use WebAssign to submit.  
-   You will get instant feedback on their correctness.  
-3. You should expect to be able to complete similar problems in a quiz situation next time. 
-4. You should read chapter 6 in the book to help you in doing these problems.
+1. You should expect to be able to complete similar problems in a quiz situation next time. 
+2. You should read chapter 6 in the book to help you in doing these problems.
 
 
 .. _Homework1: ../homework-one.html

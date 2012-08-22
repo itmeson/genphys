@@ -4,6 +4,8 @@ Lesson 2
 :date: 2012-09-06
 :category: lessons
 :tags: kinematics, introduction, 1.1, 1.2, 1.3, 1.4, 1.7, 10.5, 10.15
+:summary: Velocity changes position, acceleration changes velocity 
+
 
 ==========
 Intro Quiz
@@ -18,7 +20,7 @@ Intro Quiz
 Homework
 ========
 
-1. Check in on use of webassign, go over homework problems
+1. Go over homework problems
 
 
 ==========
@@ -38,13 +40,13 @@ Kinematics
 
 2. How do we predict how far something will travel, given its speed?
 
-5. Formalize work with kinematic equations:
+3. Formalize work with kinematic equations:
 
    a. $ x = v_0 t $
    b. $ v = v_0 + at $
    c. $ x = v_0 t + \\frac{1}{2} at^2$
 
-6. It is important to understand
+4. It is important to understand
    *what*, *why*, and also to be able to work *efficiently*.  The equations
    seem abstract, but they enable efficiency by cutting away unnecessary 
    details.

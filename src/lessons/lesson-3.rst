@@ -3,6 +3,7 @@ Lesson 3
 :date: 2012-09-11
 :category: lessons
 :tags: kinematics, introdduction, 1.4, 1.5, 1.6, 1.7, 1.8
+:summary: Acceleration changes velocity, but where does acceleration come from?
 
 ==========
 Intro Quiz
@@ -33,8 +34,9 @@ accleration, etc. graphs?  What is the significance of the axis choices?  Where
 should the intercept be?  What does it mean?  Make connections to kinematic
 equations
 
-3. 
+3. Where does acceleration come from? Newton's second law 
 
+4. Acceleration and weight
 
 
 ========

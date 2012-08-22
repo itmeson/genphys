@@ -9,5 +9,10 @@ Homework One
 
 
 Kinematics from Chapter 6, 
- 1. Get accounts on WebAssign
- 2. Problems 6.01, 6.03, 6.04, 6.09, 6.10, 6.12, 6.16
+1. Review Questions: 6.2 
+
+2. Problems 6.1, 6.2, 6.7, 6.8
+
+3. Submit these problems on paper at the beginning of the next class.
+
+

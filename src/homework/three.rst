@@ -9,4 +9,7 @@ Homework Three
 
 
 Kinematics from Chapter 6, 
- 1. TODO
+1.  
+
+
+

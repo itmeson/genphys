@@ -11,15 +11,16 @@ DEFAULT_LANG='en'
 
 # Blogroll
 LINKS =  (
-    ('dy/dan', 'http://blog.mrmeyer.com/'),
-    ('Math Mistakes', 'http://mathmistakes.org/'),
+    ('PhET simulations', 'http://phet.colorado.edu/'),
     ('Khan Academy', 'http://www.khanacademy.org'),
-    ('You can modify those links in your config file', '#')
-         )
+
+        )
 
 # Social widget
 SOCIAL = (
-          ('You can add links in your config file', '#'),
+         ('HomeworkFeed', SITEURL + '/feeds/homework.atom.xml'),
+         ('LessonsFeed', SITEURL + '/feeds/lessons.atom.xml'),
+         ('QuizzesFeed', SITEURL + '/feeds/quizzes.atom.xml')  
          )
 
 DEFAULT_PAGINATION = 7

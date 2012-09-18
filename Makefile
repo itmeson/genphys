@@ -18,7 +18,7 @@ help:
 	@echo 'Makefile for a pelican Web site                                       '
 	@echo '                                                                      '
 	@echo 'Usage:                                                                '
-        @echo '   make all                         generate the site and upload it   '
+	@echo '   make all                         generate the site and upload it   '
 	@echo '   make html                        (re)generate the web site         '
 	@echo '   make clean                       remove the generated files        '
 	@echo '   ssh_upload                       upload the web site using SSH     '

@@ -1,11 +1,10 @@
-Lesson 
+Lesson 5
 ########
 
-:date: 2012-09-11
+:date: 2012-09-18
 :category: lessons
-:tags:
+:tags: dynamics, forces
 :summary: 
-:status: draft
 
 
 ========
@@ -24,17 +23,18 @@ Intro Quiz
 Today's Topic
 ===============
 
-1.
+1. Forces and accelerations 
 
-2.
+2. Relative motions
 
+3. 
 
 ========
 Homework
 ========
 
-1. See Homework3_
+1. See Homework5_
 
-.. _Homework3: ../homework-three.html
+.. _Homework5: ../homework-five.html
 
 

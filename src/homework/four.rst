@@ -1,20 +1,18 @@
 Homework Four
 #############
 
-:date: 2012-09-15
+:date: 2012-09-18
 :category: homework
 :tags: kinematics
 
 
 
 
-1. Read Chapter 7
+1. Read Chapter 4 
 
-2. 6.23, 6.24, 6.25, 6.26, 6.27, 6.54, 6.59
+2. Review Questions: 7.7
 
-3. Review Questions: 7.1, 7.2, 7.3
-
-4. Problems: 7.1, 7.2, 7.4, 7.5, 7.6, 7.7, 7.8, 7.9, 7.11  
+4. Problems:  7.14, 7.15, 7.18, 7.24, 7.25, 7.26, 7.40
 
 5. Complete this assignment on paper and turn it in at the beginning of the next session.
 

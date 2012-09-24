@@ -1,0 +1,21 @@
+Quiz 7 
+######
+
+:date: 2012-09-25
+:category: quizzes
+:tags: forces, linear model, 1.1, 1.2, 1.5, 2.1, 2.2
+:status: draft
+
+1. A small spacecraft has an engine that can give it a constant acceleration of $1 m/s^2$.  
+
+   a. How far will it travel in one hour?
+   b. What is the average speed of the craft over that hour?
+   c. How far will the craft travel in the second hour of its flight? 
+   d. If the mass of the craft is $ 2 kg $, what force is the engine exerting? Is this force feasible for a small craft?
+
+2. Suppose that a cart is attached to a string running through a pulley, with a mass of 100 grams attached to the string.  You measure an acceleration of $ 5 m/s^2$ for the cart.  Even if you cannot answer this question fully, partial credit will be given for your reasoning -- so show all your work!
+
+   a.  Assuming zero friction, what is the mass of the cart?
+   b.  If there were a coefficient of kinetic friction of $\\mu=0.2$, what must the mass of the cart be?
+
+

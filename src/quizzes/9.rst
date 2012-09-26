@@ -1,0 +1,20 @@
+Quiz 9
+######
+
+:date: 2012-10-02
+:category: quizzes
+:tags: forces, momentum, 2.9, 2.10, 2.11
+:status: draft
+
+1. Suppose an astronaut is trapped outside her craft, more than 20 meters
+away. She throws objects from her pack, enabling her to get back to the craft.
+
+   a. What direction should she throw the gear?  Draw the situation and the flight of the sacrificed objects.
+   b. Suppose the objects in her pack are bricks, 1 kg in mass.  If she can throw the bricks at $5 m/s$, how long will it take her to get back to the craft after throwing one brick?
+   c. Draw free body diagrams for the astronaut and the brick, just before she release the brick, and just after.  Label all forces with descriptive names.
+   d. Draw two graphs showing the momentum of the brick and of the astronaut, starting several seconds before throwing the brick all the way to the moment the astronaut reaches the craft.
+   e. If every force has an equal and opposite reaction force, and objects at rest stay at rest unless acted on by an outside force, how is it that the astronaut is able to move back to the ship at all? 
+   f. Compute the position of the center of mass of the system just before the brick is thrown, 1 second after it is thrown, and at the moment that the astronaut reaches the ship.  Show your work (there should be 3 calculations).  Explain the relationship between f and e.
+
+
+

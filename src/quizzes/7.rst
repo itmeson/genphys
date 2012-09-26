@@ -4,7 +4,6 @@ Quiz 7
 :date: 2012-09-25
 :category: quizzes
 :tags: forces, linear model, 1.1, 1.2, 1.5, 2.1, 2.2
-:status: draft
 
 1. A small spacecraft has an engine that can give it a constant acceleration of $1 m/s^2$.  
 

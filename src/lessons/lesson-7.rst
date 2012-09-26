@@ -1,11 +1,10 @@
-Lesson 
+Lesson 7
 ########
 
-:date: 2012-09-24
+:date: 2012-09-25
 :category: lessons
 :tags: momentum, dynamics
-:summary: Momentum
-:status: draft
+:summary: Momentum and conservation laws
 
 
 ========

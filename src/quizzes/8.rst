@@ -1,7 +1,7 @@
 Quiz 8
 ######
 
-:date: 2012-09-26
+:date: 2012-09-27
 :category: quizzes
 :tags: forces, momentum, 2.1, 2.4, 2.7
 :status: draft
@@ -10,8 +10,7 @@ Quiz 8
 exerts a force of $100 N$, while person 2 exerts a force of $70 N$.  
 
     a. Draw free body diagrams for the person 1, person 2, and the box, assuming that there is no friction.  
-    b. Make up numbers for any masses that you need (write them down
-clearly), and then calculate and explain what will happen.  
+    b. Make up numbers for any masses that you need (write them down clearly), and then calculate and explain what will happen.  
     c. After 1 minute of whatever happened in b, where will Person 1, Person 2, and the box be?  Give positions relative to the starting location, in meters.
 
 2.  How fast would a tennis ball have to be travelling to have the same momentum as a tractor trailer on the highway?  Make estimates (and clearly write them  down) for any masses or speeds you need.

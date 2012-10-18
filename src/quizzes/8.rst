@@ -4,7 +4,6 @@ Quiz 8
 :date: 2012-09-27
 :category: quizzes
 :tags: forces, momentum, 2.1, 2.4, 2.7
-:status: draft
 
 1.  Two people push on opposite ends of a box (opposing each other).  Person 1
 exerts a force of $100 N$, while person 2 exerts a force of $70 N$.  

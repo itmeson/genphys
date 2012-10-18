@@ -1,0 +1,18 @@
+Quiz 13 
+#######
+
+:date: 2012-10-16
+:category: quizzes
+:tags: 2.1, 2.11
+:status: draft
+
+ 
+1. Suppose an astronaut is trapped outside her craft, which is 50 meters
+away. She throws objects from her pack, enabling her to get back to the craft.
+
+   a. What direction should she throw the gear?  Draw the situation and the flight of the sacrificed objects.
+   b. Suppose the objects in her pack are bricks, 2 kg in mass.  If she can throw the bricks at $6 m/s$, how long will it take her to get back to the craft after throwing one brick? Assume that her mass is $60 kg$
+   c. Draw two free body diagrams for the astronaut and the brick, one while she is in the act of throwing, just before she releases the brick, and one just after.  Label all forces with descriptive names.
+   d. Draw two graphs showing the momentum of the brick and of the astronaut, starting several seconds before throwing the brick all the way to the moment the astronaut reaches the craft.
+   e. Compute the position of the center of mass of the system just before the brick is thrown, 1 second after it is thrown, and at the moment that the astronaut reaches the ship.  Show your work.
+

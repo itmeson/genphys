@@ -6,7 +6,7 @@ SITENAME = u"General Physics I"
 SITEURL = 'http://markbetnel.com/genphys'
 
 TIMEZONE = 'America/New_York'
-
+GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
 # Blogroll

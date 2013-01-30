@@ -4,7 +4,6 @@ Quiz 9
 :date: 2012-10-02
 :category: quizzes
 :tags: forces, momentum, 2.9, 2.10, 2.11
-:status: draft
 
 1. Suppose an astronaut is trapped outside her craft, more than 20 meters
 away. She throws objects from her pack, enabling her to get back to the craft.

@@ -1,0 +1,21 @@
+Quiz 15 
+########
+
+:date: 2012-10-23
+:category: quizzes
+:tags: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6
+
+1. Two balls are launched simultaneously from a height of 10 meters.  One of them (Ball A) is shot horizontally away from the starting point, while the second (Ball B) drops straight down.
+
+   a. Ball A hits the ground first
+   b. Ball B hits the ground first
+   c. Ball A and B hit the ground at the same time
+
+Explain your reasoning for whichever answer you choose. 
+
+2. You push a 12 kilogram lawnmower with a force of 50 N, directed along the handle, which makes an angles of 40 degrees with the ground.
+
+   a. Find the horizontal and vertical components of the force.
+   b. How much work is done in pushing the mower 30 meters?
+   c. By how much does the momentum of the lawn mower change if you push for 5 seconds? (assuming no friction)
+   d. If the coefficient of friction between the mower and the ground is $\\mu = 0.3$, how large is the force of friction?

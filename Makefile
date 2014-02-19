@@ -1,16 +1,16 @@
 
-PELICAN=pelican
+PELICAN=/usr/bin/env pelican
 PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelican.conf.py
-THEME=pelican-course-theme
+THEME=pelican-bootstrap3
 
 
 SSH_HOST=web
-SSH_TARGET_DIR=markbetnel.com/genphys
+SSH_TARGET_DIR=markbetnel.com/dev/genphys
 
 DROPBOX_DIR=~/Dropbox/Public/
 

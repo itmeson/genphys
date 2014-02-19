@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"General Physics I"
-SITEURL = 'http://markbetnel.com/genphys'
+SITEURL = 'http://markbetnel.com/dev/genphys'
 
 TIMEZONE = 'America/New_York'
 GOOGLE_ANALYTICS = "UA-20141547-1"
